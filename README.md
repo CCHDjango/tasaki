@@ -1,2 +1,1 @@
-# tasaki
-quant engine by typescript
+#### typescript quant engine
